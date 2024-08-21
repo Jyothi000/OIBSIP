@@ -1,12 +1,12 @@
+HTML Structure:
 
-Global styles, such as margin, padding, and box-sizing
-A custom CSS variablHTML Structure:
   >>The HTML file (index.html) defines the structure of the web page. It includes:
   >>The <head> section with the page title, CSS links, and Font Awesome icons
   >>The <body> section with the main content of the page
   >>The <script> section at the end of the body, which contains the JavaScript code for the temperature conversion
 
 The main content is divided into several sections:
+
 The header with the title "Temperature Converter" and a temperature icon.
 The text symbols for Celsius (°C) and Fahrenheit (°F), along with a weather icon.
 The input fields for Celsius and Fahrenheit temperatures.
